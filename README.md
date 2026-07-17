@@ -1,6 +1,6 @@
 # System bankowości internetowej
 
-Projekt zaliczeniowy aplikacji bankowej napisanej w Laravel 10.  
+Projekt aplikacji bankowej na zaliczenie przedmiotu Programowanie w zastosowaniach.
 Aplikacja umożliwia logowanie i rejestrację użytkowników, obsługę różnych ról, wykonywanie przelewów między klientami, podgląd salda i historii operacji oraz administrację użytkownikami.
 
 ## Najważniejsze funkcje
